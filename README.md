@@ -1,2 +1,3 @@
-# take-home-assessment
-White Straits Capital Take Home Assessment
+# White Straits Front End Take Home Assessment
+
+
